@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Digital Agency</title>
+    <link rel="stylesheet" type="text/css" href="CSS_Landing_page.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="social-media-icons">
+            <a href="#"><img src="https://sguru.org/wp-content/uploads/2018/02/facebook_black_outline_logo_transparent_background_png_font_icon_vector_button_maker_and.png" alt="Facebook" class="social-icon"></a> |
+            <a href="#"><img src="https://clipartcraft.com/images/twitter-logo-png-outline-2.png" alt="Twitter" class="social-icon"></a> |
+            <a href="#"><img src="https://icon-library.com/images/instagram-line-icon/instagram-line-icon-26.jpg" alt="Instagram" class="social-icon"></a>
+        </div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+            <img src="https://www.pngall.com/wp-content/uploads/13/Search-Button-White-PNG.png" alt="Search" class="search-icon">
+        </div>
+    </div>
+    <div class="navbar">
+        <img src="https://www.logolynx.com/images/logolynx/90/90cdeb260df361a39d97540d9c75a814.png" alt="Logo" class="logo-icon"></a>
+        <a class="nav-link" href="#home"><strong>Home</strong></a> |
+        <a class="nav-link" href="#about"><strong>About</strong></a> |
+        <a class="nav-link" href="#services"><strong>Services</strong></a> |
+        <a class="nav-link" href="#buy-now"><strong>Buy Now</strong></a> |
+    </div>
+    <div class="hero" style="background-image: url('https://www.shutterstock.com/image-photo/serious-focused-financier-accountant-on-600nw-2285653363.jpg');">
+        <h1>Welcome to Our Creative Digital Agency</h1>
+        <p>We provide innovative solutions to boost your creative projects</p>
+        <div class="buttons">
+            <button><strong>LAUNCH BUSINESS</strong></button>
+            <button><strong>ONLINE SUPPORT TEAM</strong></button>
+            <button><strong>THE MANAGEMENT</strong></button>
+        </div>
+    </div>
+    <div class="about-us">
+        <div class="about-us-content">
+            <div class="section-heading"><strong>About Us</strong></div>
+            <p><strong>With over 69 years of experience, we are passionate about achieving better results for our clients.</strong></p>
+            <div class="about-us-box">
+                <p>In the dynamic world of business, innovation is the key to success. Companies that embrace change and adapt swiftly to market trends often lead the pack. They invest in research and development, constantly seeking to improve their products or services. Their leaders understand the importance of a motivated workforce and foster a culture of creativity and collaboration...</p>
+            </div>
+            <a href="#" class="cta-button">Read More</a>
+        </div>
+        <img src="https://www.nicepng.com/png/full/8-81127_thinking-png.png" alt="About Us" class="about-us-image">
+    </div>
+    <div class="services">
+        <div class="section-heading"><strong>Our Services</strong></div>
+        <div class="service-container">
+            <div class="service">
+                <h3>User Experience</h3>
+                <p>We create intuitive and satisfying user experiences.</p>
+            </div>
+            <div class="service">
+                <h3>Creative Design</h3>
+                <p>Our designs are fresh, innovative, and effective.</p>
+            </div>
+            <div class="service">
+                <h3>Retina Ready</h3>
+                <p>Our designs are sharp and stunning on any display.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-links">
+            <a href="#">Downloads</a> |
+            <a href="#">Contents</a> |
+            <a href="#">Contact Us</a> |
+            <a href="#">Address</a>
+        </div>
+        <p>Infra Building, Hi-Tech Street, Developed City, INDIA</p>
+        <p>Email: info@creativedigitalagency.com | Phone: +91 9876543210</p>
+    </footer>
+    <div class="bottom-bar">
+        <p>© 2024 Creative Digital Agency. All rights reserved.</p>
+    </div>
+</body>
+</html>
